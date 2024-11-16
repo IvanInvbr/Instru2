@@ -2,12 +2,9 @@
 
 ## Proyecto Integral
 
-En este proyecto realizamos un sistema utilizando un sensor de proximidad, un LED RGB, un buzzer y un botón. La funcionalidad es la siguiente:
+En este proyecto realizamos un sistema utilizando un sensor de proximidad, un LED RGB, una pantalla OLED y un servo motor. La funcionalidad es la siguiente:
 
-- Cuando la distancia del objeto detectado sea larga, el LED se encenderá en **verde**.
-- A medida que el objeto se acerca, el LED cambiará a **amarillo**.
-- Cuando el objeto esté demasiado cerca, el LED se encenderá en **rojo** y el buzzer emitirá un sonido.
-- Al presionar el **botón**, el LED volverá a encenderse en **verde** durante unos segundos.
+- Según la distancia, el servo controla una "ventilación" en un invernadero. La OLED muestra los valores de la distancia y el led RGB indica si está en una distancia optima.
 
 ## Ejercicios en clase
 
@@ -15,7 +12,7 @@ Durante las clases, realizamos diversos ejercicios que nos ayudaron a comprender
 
 ### Ejercicios
 
-Los ejercicios realizados en clase nos sirvieron de base para entender cómo manejar los componentes del proyecto, como el sensor de proximidad, el buzzer y el LED RGB, así como el uso de botones para interactuar con el sistema.
+Los ejercicios realizados en clase nos sirvieron de base para entender cómo manejar una variedad de componentes para así poder usar este conocimiento adquirido y poder desarrollar bien el proyecto-
 
 ## Avance Proyecto Navideño
 
@@ -23,12 +20,13 @@ Los ejercicios realizados en clase nos sirvieron de base para entender cómo man
 
 En este primer avance del proyecto, presentamos la simulación de una serie navideña, que incluye los siguientes elementos:
 
-- **Árbol de Navidad**: Simulación visual de un árbol.
+- **Cabeza Navideña**: Simulación visual de una cabeza navideña inspirada en D3ADM4U5.
 - **Buzzer**: Reproduce notas musicales navideñas.
-- **LEDs**: Simulan los ojos de un muñeco de nieve.
-- **Motor paso a paso**: Simula que el muñeco levanta un regalo de Navidad.
+- **Matriz**: Simulan los ojos de un muñeco de nieve.
+- **Servo motores**: Simula el movimiento de las orejas de la cabeza
+- **Sensor HC-SR04**: Simula la distancia para poder activar la funcionalidad de la cabeza
 
-Este avance es parte de la implementación final de una serie de escenas navideñas que se integrarán en el proyecto.
+Esta es la funcionalidad completa del proyecto navideño.
 
 ## Cursos Python
 
@@ -40,22 +38,21 @@ Gracias al curso de **Python** de NetAcad, pude comprender de manera más profun
 
 ### Evaluación del trabajo en equipo
 
-Para el proyecto integral, trabajé junto con mi compañero **Gustavo Méndez**. Él tiene una excelente habilidad para entender el código y fue muy eficiente al realizar las conexiones de los componentes.
+Para el proyecto integral, trabajé junto con mi compañero **Johnatan Emilio**. El cuenta con imaginación para poder diseñar el boceto y el cuerpo del personaje.
 
-La realización del trabajo fue rápida y eficaz, aunque hubo algunos inconvenientes, como la conexión incorrecta de un botón debido a la prisa. Al principio, no funcionaba correctamente, pero después de corregir la conexión, todo comenzó a funcionar bien. Si no hubiéramos tratado de apresurarnos, probablemente habríamos resuelto este problema desde el principio.
+El proyecto fue complitado con el ya que no sabe bien de la programación y manipulación de los componentes para una optima conexión, pero estuvo dispuesto a realizar todo el personaje pero solamente la carcasa del personaje ya que yo realiza toda la conexión.
 
-En general, trabajamos bien como equipo y conseguimos terminar el trabajo con éxito.
-
+Tuvimos varios choques debido, pero al final pudimos realizar todo lo propuesto.
 ---
 
 ## Instalación y Requisitos
 
 Para ejecutar este proyecto, necesitas los siguientes componentes de hardware:
 
-- Sensor de proximidad (por ejemplo, un **HC-SR04**).
-- LED RGB.
+- Sensor de proximidad (**HC-SR04**)
+- 2 Servo motores.
 - Buzzer.
-- Botón.
+- Matriz.
 
 Además, asegúrate de tener instalado el siguiente software en tu entorno de desarrollo:
 
