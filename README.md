@@ -42,7 +42,6 @@ Para el proyecto integral, trabajé junto con mi compañero **Johnatan Emilio**.
 
 El proyecto fue complitado con el ya que no sabe bien de la programación y manipulación de los componentes para una optima conexión, pero estuvo dispuesto a realizar todo el personaje pero solamente la carcasa del personaje ya que yo realice toda la conexión.
 
-Tuvimos varios choques debido, pero al final pudimos realizar todo lo propuesto.
 ---
 
 ## Instalación y Requisitos
