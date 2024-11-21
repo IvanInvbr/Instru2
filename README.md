@@ -30,7 +30,7 @@ Esta es la funcionalidad completa del proyecto navideño.
 
 ## Cursos Python
 
-### Cursos Python NetAcad
+![image](https://github.com/user-attachments/assets/f06b533d-37d9-49d8-b6ad-41dcf7b69659)
 
 Gracias al curso de **Python** de NetAcad, pude comprender de manera más profunda los conceptos que aplicamos en el proyecto. Todo el código principal del proyecto está implementado en **Python**, y los conocimientos adquiridos fueron cruciales para la correcta implementación del código y la integración de los componentes.
 
