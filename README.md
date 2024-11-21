@@ -12,7 +12,7 @@ Durante las clases, realizamos diversos ejercicios que nos ayudaron a comprender
 
 ### Ejercicios
 
-Los ejercicios realizados en clase nos sirvieron de base para entender cómo manejar una variedad de componentes para así poder usar este conocimiento adquirido y poder desarrollar bien el proyecto-
+Los ejercicios realizados en clase nos sirvieron de base para entender cómo manejar una variedad de componentes para así poder usar este conocimiento adquirido y poder desarrollar bien el proyecto.
 
 ## Avance Proyecto Navideño
 
@@ -22,7 +22,7 @@ En este primer avance del proyecto, presentamos la simulación de una serie navi
 
 - **Cabeza Navideña**: Simulación visual de una cabeza navideña inspirada en D3ADM4U5.
 - **Buzzer**: Reproduce notas musicales navideñas.
-- **Matriz**: Simulan los ojos de un muñeco de nieve.
+- **Matriz**: Simula iluminación para la cabeza.
 - **Servo motores**: Simula el movimiento de las orejas de la cabeza
 - **Sensor HC-SR04**: Simula la distancia para poder activar la funcionalidad de la cabeza
 
@@ -38,9 +38,9 @@ Gracias al curso de **Python** de NetAcad, pude comprender de manera más profun
 
 ### Evaluación del trabajo en equipo
 
-Para el proyecto integral, trabajé junto con mi compañero **Johnatan Emilio**. El cuenta con imaginación para poder diseñar el boceto y el cuerpo del personaje.
+Para el proyecto integral, trabajé junto con mi compañero **Johnatan Emilio**. El cual llego un poco tarde a la clase pero si me ayudo a conectar los componentes
 
-El proyecto fue complitado con el ya que no sabe bien de la programación y manipulación de los componentes para una optima conexión, pero estuvo dispuesto a realizar todo el personaje pero solamente la carcasa del personaje ya que yo realiza toda la conexión.
+El proyecto fue complitado con el ya que no sabe bien de la programación y manipulación de los componentes para una optima conexión, pero estuvo dispuesto a realizar todo el personaje pero solamente la carcasa del personaje ya que yo realice toda la conexión.
 
 Tuvimos varios choques debido, pero al final pudimos realizar todo lo propuesto.
 ---
@@ -63,8 +63,3 @@ Además, asegúrate de tener instalado el siguiente software en tu entorno de de
 
 Las contribuciones a este proyecto son bienvenidas. Si deseas mejorar el proyecto, por favor abre un **pull request**. También puedes reportar problemas o sugerencias abriendo un **issue**.
 
----
-
-### Licencia
-
-Este proyecto está licenciado bajo la [MIT License](LICENSE).
