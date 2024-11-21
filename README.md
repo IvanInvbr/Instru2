@@ -44,20 +44,6 @@ El proyecto fue complitado con el ya que no sabe bien de la programación y mani
 
 ---
 
-## Instalación y Requisitos
-
-Para ejecutar este proyecto, necesitas los siguientes componentes de hardware:
-
-- Sensor de proximidad (**HC-SR04**)
-- 2 Servo motores.
-- Buzzer.
-- Matriz.
-
-Además, asegúrate de tener instalado el siguiente software en tu entorno de desarrollo:
-
-- Python 3.x
-- Bibliotecas de Python para trabajar con hardware (por ejemplo, `RPi.GPIO` si estás usando una Raspberry Pi).
-
 ## Contribuciones
 
 Las contribuciones a este proyecto son bienvenidas. Si deseas mejorar el proyecto, por favor abre un **pull request**. También puedes reportar problemas o sugerencias abriendo un **issue**.
