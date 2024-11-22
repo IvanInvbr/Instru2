@@ -42,7 +42,7 @@ El proyecto fue complitado con el ya que no sabe bien de la programación y mani
 ---
 ## Repositorio en drive de todos los trabajos realizados
 
-https://drive.google.com/drive/u/0/folders/1UUHWoQi5aiVQbx-AUezqMIvWxl8ixCI3
+https://drive.google.com/drive/folders/1UUHWoQi5aiVQbx-AUezqMIvWxl8ixCI3?usp=sharing
 
 ## Contribuciones
 
