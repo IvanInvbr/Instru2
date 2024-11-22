@@ -9,9 +9,6 @@ En este proyecto realizamos un sistema utilizando un sensor de proximidad, un LE
 ## Ejercicios en clase
 
 Durante las clases, realizamos diversos ejercicios que nos ayudaron a comprender mejor los conceptos y a implementarlos en el proyecto.
-
-### Ejercicios
-
 Los ejercicios realizados en clase nos sirvieron de base para entender cómo manejar una variedad de componentes para así poder usar este conocimiento adquirido y poder desarrollar bien el proyecto.
 
 ## Avance Proyecto Navideño
